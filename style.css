@@ -12,7 +12,7 @@ h1{
 }
 .container{
     text-align: center;
-    margin-top:23px
+    margin-top:23px;
 }
 
 table{
@@ -56,3 +56,5 @@ button:hover{
     display: inline-block;
     
 }
+
+
