@@ -8,7 +8,7 @@ body{
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 1.7rem;
 }
 .container{
     text-align: center;
@@ -24,24 +24,24 @@ input{
     border: 3px solid #244624;
     background-color: #7de28c75;
     font-size:34px;
-    height: 65px;
-    width: 365px;
+    height: 63px;
+    width: 337px;
     text-align: end;
 }
 
 button{
     border-radius: 36%;
     border: 2px solid #000;
-    font-size: 40px;
+    font-size: 38px;
     background: #cecece;
-    width: 83px;
-    height: 77px;
+    width: 74px;
+    height: 63px;
     margin: 6px;
 }
 
 button:hover{
     background-color: #fbd447;
-    font-size: 2.7rem;
+    font-size: 2.5rem;
 }
 
 #eqlbtn{
@@ -56,5 +56,3 @@ button:hover{
     display: inline-block;
     
 }
-
-
